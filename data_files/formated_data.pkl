@@ -51,7 +51,7 @@ ssS'rptravelsandtransporters@rediffmail.com'
 p22
 (dp23
 g3
-S'Proprietorship'
+S'Prop'
 p24
 sg5
 g6
@@ -149,7 +149,7 @@ ssS'akribhugita@gmail.com'
 p57
 (dp58
 g3
-S'Proprietorship'
+S'Prop'
 p59
 sg5
 g14
@@ -219,7 +219,7 @@ ssS'sonacraft@gmail.com'
 p82
 (dp83
 g3
-S'Private Limited'
+S'LLP'
 p84
 sg5
 g14
@@ -233,7 +233,7 @@ ssS'daya@corporatetravelhouse.com'
 p87
 (dp88
 g3
-S'Partnership'
+S'Private Limited'
 p89
 sg5
 g6
@@ -415,7 +415,7 @@ ssS'admin@riverfresh.in'
 p152
 (dp153
 g3
-S'Partnership'
+S'Private Limited'
 p154
 sg5
 g14
@@ -471,7 +471,7 @@ ssS'mdsadamhussain0786@patu.in'
 p172
 (dp173
 g3
-S'Public Limited'
+S'S'
 p174
 sg5
 g14
@@ -555,7 +555,7 @@ ssS'trip2vacations@gmail.com'
 p202
 (dp203
 g3
-S'Proprietorship'
+S'Prop'
 p204
 sg5
 g14
@@ -569,7 +569,7 @@ ssS'sandipaniacademyblr@gmail.com'
 p207
 (dp208
 g3
-S'Partnership'
+S'Private Limited'
 p209
 sg5
 g6
@@ -639,7 +639,7 @@ ssS'jnnj@yopmail.com'
 p232
 (dp233
 g3
-S'Proprietorship'
+S'Prop'
 p234
 sg5
 g14
@@ -681,7 +681,7 @@ ssS'jha.icfai1991@gmail.com'
 p247
 (dp248
 g3
-S'Proprietorship'
+S'Prop'
 p249
 sg5
 g14
@@ -723,7 +723,7 @@ ssS'ticketghar17@gmail.com'
 p262
 (dp263
 g3
-S'LLP'
+S'public limited'
 p264
 sg5
 g14
@@ -793,7 +793,7 @@ ssS'barundubeu001@gmail.com'
 p287
 (dp288
 g3
-S'Private Limited'
+S'LLP'
 p289
 sg5
 g14
@@ -821,7 +821,7 @@ ssS'arif@ibchotels.co.in'
 p297
 (dp298
 g3
-S'Private Limited'
+S'LLP'
 p299
 sg5
 g14
@@ -849,7 +849,7 @@ ssS'siri.restaurent@gmail.com'
 p307
 (dp308
 g3
-S'Proprietorship'
+S'Prop'
 p309
 sg5
 g6
@@ -877,7 +877,7 @@ ssS'ruchirtil@gmail.com'
 p317
 (dp318
 g3
-S'Proprietorship'
+S'Prop'
 p319
 sg5
 g6
@@ -905,7 +905,7 @@ ssS'sbjack7@gmail.com'
 p327
 (dp328
 g3
-S'Proprietorship'
+S'Prop'
 p329
 sg5
 g14
@@ -947,7 +947,7 @@ ssS'bhatzameer00@gmail.com'
 p342
 (dp343
 g3
-S'Private Limited'
+S'LLP'
 p344
 sg5
 g14
@@ -1003,7 +1003,7 @@ ssS'decimal@infionic.com'
 p362
 (dp363
 g3
-S'Private Limited'
+S'LLP'
 p364
 sg5
 g6
@@ -1045,7 +1045,7 @@ ssS'testpayunow10@yopmail.com'
 p377
 (dp378
 g3
-S'Partnership'
+S'Private Limited'
 p379
 sg5
 g14
@@ -1059,7 +1059,7 @@ ssS'gsrudra@yahoo.com'
 p382
 (dp383
 g3
-S'Partnership'
+S'Private Limited'
 p384
 sg5
 g6
@@ -1129,7 +1129,7 @@ ssS'colifaschannel@gmail.com'
 p407
 (dp408
 g3
-S'Proprietorship'
+S'Prop'
 p409
 sg5
 g6
@@ -1227,7 +1227,7 @@ ssS'elenalauren789@gmail.com'
 p442
 (dp443
 g3
-S'Public Limited'
+S'Education'
 p444
 sg5
 g14
@@ -1325,7 +1325,7 @@ ssS'sjsandeepja@gmail.com'
 p477
 (dp478
 g3
-S'Proprietorship'
+S'Prop'
 p479
 sg5
 g14
@@ -1339,7 +1339,7 @@ ssS'infiestatravels@gmail.com'
 p482
 (dp483
 g3
-S'Proprietorship'
+S'Prop'
 p484
 sg5
 g6
@@ -1367,7 +1367,7 @@ ssS'nazeer.ahammad@ammson.com'
 p492
 (dp493
 g3
-S'Private Limited'
+S'LLP'
 p494
 sg5
 g14
@@ -1661,7 +1661,7 @@ ssS'info@videosngo.com'
 p597
 (dp598
 g3
-S'Individual'
+S'public '
 p599
 sg5
 g14
@@ -1717,7 +1717,7 @@ ssS'siyonaenterprises1@gmail.com'
 p617
 (dp618
 g3
-S'Partnership'
+S'Private Limited'
 p619
 sg5
 g6
@@ -1787,7 +1787,7 @@ ssS'indusbiomedisurg@gmail.com'
 p642
 (dp643
 g3
-S'Proprietorship'
+S'Prop'
 p644
 sg5
 g14
@@ -1801,7 +1801,7 @@ ssS'support@kapsonshomoeopathy.com'
 p647
 (dp648
 g3
-S'Partnership'
+S'Private Limited'
 p649
 sg5
 g14
@@ -1815,7 +1815,7 @@ ssS'coinxmarketbiz@gmail.com'
 p652
 (dp653
 g3
-S'Proprietorship'
+S'Prop'
 p654
 sg5
 g14
@@ -1885,7 +1885,7 @@ ssS'namrathnani@gmail.com'
 p677
 (dp678
 g3
-S'Societies'
+S'Society'
 p679
 sg5
 g6
@@ -1997,7 +1997,7 @@ ssS'ishwarr1967@gmail.com'
 p717
 (dp718
 g3
-S'Proprietorship'
+S'Prop'
 p719
 sg5
 g6
@@ -2039,7 +2039,7 @@ ssS'greenleaffashion.kulgachia@gmail.com'
 p732
 (dp733
 g3
-S'Proprietorship'
+S'Prop'
 p734
 sg5
 g6

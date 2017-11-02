@@ -1,6 +1,6 @@
 import  csv
 import pickle
-csv_file = open("data_files/30thoct.csv", 'r')
+csv_file = open("data_files/GTM_data.csv", 'r')
 reader = csv.reader(csv_file)
 
 email_list = []
@@ -23,7 +23,7 @@ for i in range(len(email_list)):
 print data_dict
 
 
-pickle.dump(data_dict, open("data_files/formated_data.pkl", "w"))
+pickle.dump(data_dict, open("data_files/formated_data1.pkl", "w"))
 
 
 
